@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @archebus
-- 👀 I’m interested in chess, gaming and fun
+- 👀 I’m interested in chess, gaming and having fun with my code.
 - 🌱 I’m currently learning C#
 - 📫 Reach me via email: Joshua.Devon@gmail.com
 - ⚡ Fun fact: I lived in Canada for 3 years and was the 7th fastest oyster shucker in the country.
