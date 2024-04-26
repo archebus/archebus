@@ -1,7 +1,6 @@
 # 🎲 💻 Josh Devon
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Time+Student;Part+Time+Idiot)](https://git.io/typing-svg)
-
 - 👋 Hi, I’m Josh AKA @archebus
 - 🌱 I’m currently learning JavaScript before starting REACT.
 - 📫 Reach me via email: Joshua.Devon@gmail.com.
