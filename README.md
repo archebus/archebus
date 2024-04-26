@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @archebus
+# 🎲 💻 Josh Devon
+
+**`Full-Time Student Studying Programming Cert 4`**
+
+- 👋 Hi, I’m Josh AKA @archebus
+- 🌱 I’m currently learning JavaScript before starting REACT.
+- 📫 Reach me via email: Joshua.Devon@gmail.com.
 - 👀 I’m interested in chess, gaming and having fun with my code.
-- 🌱 I’m currently learning JavaScript (and mostly hating it)
-- 📫 Reach me via email: Joshua.Devon@gmail.com
 - ⚡ Fun fact: I lived in Canada for 3 years and was the 7th fastest oyster shucker in the country.
 
 <!---
