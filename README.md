@@ -1,3 +1,9 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=archebus.archebus" />
+
+<h1 align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Time+Student;Part+Time+Idiot)](https://git.io/typing-svg)
+</h1>
+
 # 🎲 Josh Devon
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Time+Student;Part+Time+Idiot)](https://git.io/typing-svg)
