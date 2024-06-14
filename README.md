@@ -11,6 +11,11 @@
   🏫 I am enrolled Full Time at TAFE NSW.<br>
   📫 Reach me via email: Joshua.Devon@gmail.com.
 </p>
+<p align="center">
+  <a href="https://archebus.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-My%20Profile-f63131?style=for-the-badge&logo=github&logoColor=white&labelColor=f63131" alt="View My Projects" />
+  </a>
+</p>
 
 <br><br>
 
