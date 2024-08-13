@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  🌱 I’m currently studying JavaScript & React<br>
+  🌱 I’m currently studying Diploma of Programming @ TAFE NSW<br>
   🏫 I am enrolled Full Time at TAFE NSW.<br>
   📫 Reach me via email: Joshua.Devon@gmail.com.
 </p>
