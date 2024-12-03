@@ -22,7 +22,7 @@
 <h2 align="center">💻 Languages & Tools 💻</h2><br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=github,javascript,cs,html,css,vscode,nodejs" />
+  <img src="https://skillicons.dev/icons?i=github,git,cs,dotnet,javascript,html,css,react,nodejs,postgres,mysql,mongodb,vscode,bash,linux" />
 </div>
 
 <br><br>
