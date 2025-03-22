@@ -8,7 +8,7 @@
 
 <p align="center">
   🌱 I've recently completed my Diploma of Programming @ TAFE NSW<br>
-  🏫 I am currently building an 8-bit CPU with Digital.sh<br>
+  🏫 I am currently overhauling my workflow to be keyboard driven (Vim + Terminal only)<br>
   📫 Reach me via email: Joshua.Devon@gmail.com.
 </p>
 <p align="center">
