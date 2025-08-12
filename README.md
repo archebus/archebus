@@ -13,5 +13,5 @@
 </p>
 
 <p align="center">
-  <a href="archebus.com">I talk about stuff here.</a>
+  <a href="https://archebus.com/">I talk about stuff here.</a>
 </p>
