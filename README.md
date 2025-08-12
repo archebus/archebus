@@ -11,3 +11,7 @@
   Currently working on quantum architecture sims in RUST.<br>
   Reach me via email: the_archebus@proton.me
 </p>
+
+<p align="center">
+  <a href="archebus.com">I talk about stuff here.</a>
+</p>
