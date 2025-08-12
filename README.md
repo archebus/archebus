@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Josh Devon  :  archebus</h1>
+<h1>archebus</h1>
 </div>
 
 <p align="center">
@@ -7,33 +7,7 @@
 </p>
 
 <p align="center">
-  🌱 Currently working as a Research Assistant | Junior Dev at UTS<br>
-  🏫 Currently slamming my head into the keyboard trying to learn rust.<br>
-  📫 Reach me via email: Joshua.Devon@gmail.com.
+  Currently employed as a Research Assistant | Junior Dev at UTS<br>
+  Currently working on quantum architecture sims in RUST.<br>
+  Reach me via email: the_archebus@proton.me
 </p>
-<p align="center">
-  <a href="https://archebus.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-My%20Profile-f63131?style=for-the-badge&logo=github&logoColor=white&labelColor=f63131" alt="View My Projects" />
-  </a>
-</p>
-
-<br><br>
-
-<h2 align="center">💻 Languages & Tools 💻</h2><br>
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=github,git,cs,dotnet,javascript,html,css,react,nodejs,mysql,mongodb,vscode,bash,linux" />
-</div>
-
-<br><br>
-
-<h2 align="center">✨ Stats ✨</h2><br>
-
-<div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=archebus&theme=highcontrast" alt="GitHub Streak" /></a>
-</div>
-
-<!---
-archebus/archebus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
