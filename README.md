@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  Currently employed as a Research Assistant | Junior Dev at UTS<br>
-  Currently working on quantum architecture sims in RUST.<br>
+  Currently working as a Junior Dev at UTS<br>
+  Also working on game-dev projects in GODOT<br>
   Reach me via email: the_archebus@proton.me
 </p>
 
