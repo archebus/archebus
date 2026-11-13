@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Currently working as a Junior Dev at UTS<br>
+  Currently working as a Developer at UTS<br>
   Also working on game-dev projects in GODOT<br>
   Reach me via email: the_archebus@proton.me
 </p>
